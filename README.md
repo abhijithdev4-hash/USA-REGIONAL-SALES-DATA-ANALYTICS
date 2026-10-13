@@ -1,35 +1,45 @@
-# python-practice-project
-# Python Practice Projects
+# Python and SQL Practice Projects
 
 ## About
 
-This repository contains Python practice exercises completed while learning Python programming as part of my Data Analytics journey.
+This repository contains Python and SQL practice assignments completed as part of my Data Analytics learning journey.
 
-## Topics Covered
-
-* Python dictionaries and data manipulation
-* Loops and conditional statements
-* Lists, strings, and basic problem-solving
-* Basic calculations and transaction-related exercises
-
-## Skills Demonstrated
+## Python Topics
 
 * Python fundamentals
-* Data manipulation
-* Conditional logic
-* Problem-solving
+* Data manipulation and dictionaries
+* Loops and conditional statements
+* Basic problem-solving
+
+## SQL Topics
+
+* Database and table creation
+* Primary keys and foreign keys
+* SELECT queries, joins, and aggregations
+* GROUP BY and HAVING
+* Window functions, including ROW_NUMBER, RANK, DENSE_RANK, NTILE, LAG, and LEAD
 
 ## Repository Contents
 
-* `01_python_data_manipulation.ipynb` — Practice exercises involving Python data structures and manipulation.
-* `02_python_loops_and_conditions.ipynb` — Practice exercises involving loops, conditions, and basic calculations.
+### Python
 
-## Tools Used
+* `01_python_data_manipulation.ipynb`
+* `02_python_loops_and_conditions.ipynb`
+
+### SQL
+
+* `01_sql_database_creation.sql`
+* `02_sql_queries_and_joins.sql`
+* `03_sql_window_functions.sql`
+
+## Tools
 
 * Python
 * Jupyter Notebook
+* MySQL
 
-## Purpose
+## Goal
 
-To strengthen my Python fundamentals and build a foundation for future data analysis projects.
+To strengthen my programming and data analysis skills through consistent practice and hands-on projects.
+
 
